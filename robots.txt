@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://sakijabe.github.io/sitemap/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/DuH/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/tCb/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/Kas/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/mbQ/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/DuQ/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/luh/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/LlS/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/Cxb/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/arf/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/AIe/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/kPg/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/xcZ/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/Zcn/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/HKm/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/HlP/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/mfp/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/VMv/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/HTu/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/CdQ/sitemap_index.sakijabe
+Sitemap: https://sakijabe.github.io/mAH/sitemap_index.sakijabe
